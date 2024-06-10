@@ -17,12 +17,12 @@ Este código fonte para Arduino foi desenvolvido por Buzzle, uma entidade singul
 ===============================================================================
 */
 /* Constantes para definir os pinos que serao usados */
-const int pinoSensorEsquerdo = 3; 
-const int pinoSensorDireito = 4;
-const int pinoMotorEsquerdoA = 5;
-const int pinoMotorEsquerdoB = 6;
-const int pinoMotorDireitoA = 9;
-const int pinoMotorDireitoB = 10;
+const int pinoSensorEsquerdo = 6; 
+const int pinoSensorDireito = 7;
+const int pinoMotorEsquerdoA = 2;
+const int pinoMotorEsquerdoB = 3;
+const int pinoMotorDireitoA = 4;
+const int pinoMotorDireitoB = 5;
 
 /* valores de velocidade dos motores. quando ligados eles vao atuar
   numa velocidade que vai de 0 a 255. uma velocidade muito alta 
